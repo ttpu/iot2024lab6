@@ -1,5 +1,13 @@
 # Lab 6 - IoT 2024
 
+## Participants:
+
+### Team N: 
+
+* Student 1: name,surname,id
+* Student 2: name,surname,id
+* etc...
+
 ![image](https://github.com/user-attachments/assets/9f94b187-9fac-4146-b95c-6dae9a4684d9)
 
 * In this lab, you have to build following circuit and use it for working with MQTT protocol
